@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "启动程序",
-            "program":"${workspaceRoot}\\lib\\app.js",//"${workspaceRoot}\\test\\lib\\bll\\common.test.js", //
+            "program":"${workspaceRoot}\\lib\\db\\redis.js",//"${workspaceRoot}\\test\\lib\\bll\\common.test.js", //
             "stopOnEntry": false,
             "args": [],
             "cwd": "${workspaceRoot}",
